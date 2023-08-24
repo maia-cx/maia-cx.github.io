@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://maia.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'maia'
 theme = 'papermod'
