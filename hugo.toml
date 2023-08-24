@@ -1,4 +1,4 @@
-baseURL = 'https://maia.org/'
+baseURL = 'https://maia.cx/'
 languageCode = 'en-us'
 title = 'maia'
 theme = 'papermod'
